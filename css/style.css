@@ -16,7 +16,13 @@ body{
     height: 100vh;
     background: url(https://carnetvacunacion.minsa.gob.pe/static/img/bgTopLeft-optw.jpg) no-repeat left top,url(https://carnetvacunacion.minsa.gob.pe/static/img/bgBottomLeft-optw.jpg) no-repeat left bottom,url(https://carnetvacunacion.minsa.gob.pe/static/img/bgBottomRight-optw.jpg) no-repeat right bottom;
 }
-
+.alemers{
+    width: 100%;
+    text-align: right;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #1eb7ca;
+}
 .flexContainer{
     width: 50%;
     display: flex;
